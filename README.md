@@ -12,8 +12,8 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 ## Planejamento
 
 ### Briefing dos Dados [estágio atual]
-- Coleta de dados reais ou sintéticos.
-- Descrição dos dados e das fontes.
+- Coleta de dados reais ou sintéticos. [feito]
+- Descrição dos dados e das fontes. [atual]
 - Entendimento do problema de negócio.
 
 ### Limpeza dos Dados [próximo estágio]
