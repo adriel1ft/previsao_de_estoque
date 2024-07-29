@@ -1,7 +1,7 @@
 # Projeto de Previsão de Estoque
 
-## Tema: Ruptura de Estoque / Previsão de Demanda (estoque)
-
+### Temas disponíveis: 01 - Ruptura de Estoque (Previsão de Demanda) /OU/ 02 - Análise Preditiva do Mercado de Ações
+## Tema Escolhido
 Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressão, como regressão linear ou logística] para fazer a análise de ruptura dos dados de um estoque [x].
 
 ## Autores
@@ -11,7 +11,7 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 
 ## Planejamento
 
-### Briefing dos Dados [estágio atual]
+### Briefing / Análise Exploratória dos Dados [estágio atual]
 - Coleta de dados reais ou sintéticos. [feito]
 - Descrição dos dados e das fontes. [atual]
 - Entendimento do problema de negócio.
@@ -25,6 +25,7 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 - Visualização dos dados.
 - Estatísticas descritivas.
 - Identificação de padrões e tendências.
+- Escolha do modelo.
 
 ### Construção e Validação do Modelo [aguarde]
 - **Escolha do Modelo:**
@@ -55,3 +56,19 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 
 - Chat de Linguagem Natural [aguarde]
 - Integração com WhatsApp* (Telegram) [aguarde]
+
+## Referências 
+
+
+### Datasets
+
+- (Dataset Tech) [https://www.kaggle.com/datasets/hetulparmar/inventory-management-dataset]
+- (Dataset c/ )
+
+### Estudos
+
+- (Como criar previsões com ST's) [https://medium.com/ensina-ai/princ%C3%ADpios-b%C3%A1sicos-para-criar-previs%C3%B5es-de-s%C3%A9ries-temporais-e58c451a25b]
+
+- (Criando Previsões) [https://nbviewer.org/github/leandrovrabelo/tsmodels/blob/master/notebooks/portugues/Princi%CC%81pios%20Ba%CC%81sicos%20para%20Prever%20Se%CC%81ries%20Temporais.ipynb]
+
+- Verificar quantos % cada produto impacta nas vendas
