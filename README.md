@@ -71,4 +71,9 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 
 - (Criando Previsões) [https://nbviewer.org/github/leandrovrabelo/tsmodels/blob/master/notebooks/portugues/Princi%CC%81pios%20Ba%CC%81sicos%20para%20Prever%20Se%CC%81ries%20Temporais.ipynb]
 
+- (Previsão de ST's: Além dos Números) [https://medium.com/@mauren.micalichen/previs%C3%A3o-de-s%C3%A9ries-temporais-abordagem-al%C3%A9m-dos-n%C3%BAmeros-fddae92f0caf]
+
+
+
 - Verificar quantos % cada produto impacta nas vendas
+- Pegar um norte, tipo escolher uma gama de produtos e ver qual delas é prevista de vender mais
