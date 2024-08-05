@@ -11,39 +11,39 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 
 ## Planejamento
 
-### Briefing / Análise Exploratória dos Dados [estágio atual]
+### Briefing / Análise Exploratória dos Dados 
 - Coleta de dados reais ou sintéticos. [feito]
 - Descrição dos dados e das fontes. [atual]
-- Entendimento do problema de negócio.
+- Entendimento do problema de negócio. [feito]
 
-### Limpeza dos Dados [próximo estágio]
-- Tratamento de valores faltantes.
-- Remoção de outliers.
-- Normalização/Padronização dos dados.
+### Limpeza dos Dados 
+- Tratamento (ou não) de valores faltantes. [feito]
+- Remoção (ou não) de outliers. [feito] 
+- Normalização/Padronização dos dados.  [em analise]
 
-### Análise Inicial Preditiva [aguarde]
-- Visualização dos dados.
-- Estatísticas descritivas.
-- Identificação de padrões e tendências.
-- Escolha do modelo.
+### Análise Inicial Preditiva.
+- Visualização dos dados. [feito]
+- Estatísticas descritivas. [feito]
+- Identificação de padrões e tendências. [feito]
+- Escolha do modelo. [feito]
 
-### Construção e Validação do Modelo [aguarde]
+### Construção e Validação do Modelo. 
 - **Escolha do Modelo:**
-  - Regressão Linear (simples ou múltipla)
-  - Regressão Logística (binária ou múltipla)
+  - Regressão Linear (simples ou múltipla) [escolhida]
+  - Regressão Logística (binária ou múltipla) [recusada]
 - **Construção do Modelo:**
-  - Definição das variáveis independentes e dependentes.
-  - Implementação do modelo.
+  - Definição das variáveis independentes e dependentes. [feito]
+  - Implementação do modelo. [feito]
 - **Validação do Modelo:**
-  - Divisão dos dados em conjunto de treino e teste.
-  - Avaliação do desempenho do modelo.
+  - Divisão dos dados em conjunto de treino e teste. [feito]
+  - Avaliação do desempenho do modelo (acuracia). [feito]
 
-### Aplicação do Modelo + Aplicação Gráfica [aguarde]
-- Implementação do modelo em um ambiente de produção.
+### Aplicação do Modelo + Aplicação Gráfica [estágio atual]
+- Implementação do modelo em um ambiente de produção. [feito]
 - Desenvolvimento de dashboards ou relatórios para visualização dos resultados.
 
-### Análise de Resultados [aguarde]
-- Interpretação dos resultados obtidos.
+### Análise de Resultados [próximo estágio]
+- Interpretação dos resultados obtidos. 
 - Comparação com objetivos do negócio.
 - Sugestões de melhorias.
 
