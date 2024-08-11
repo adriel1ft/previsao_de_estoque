@@ -1,7 +1,7 @@
 # Projeto de Previsão de Estoque
 
 ### Temas disponíveis: 01 - Ruptura de Estoque (Previsão de Demanda) /OU/ 02 - Análise Preditiva do Mercado de Ações
-## Tema Escolhido
+## Tema Escolhido: Previsão de Demanda
 Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressão, como regressão linear ou logística] para fazer a análise de ruptura dos dados de um estoque [x].
 
 ## Autores
@@ -59,21 +59,10 @@ Nesse projeto, usaremos tecnologias de regressão [especificar tipo de regressã
 
 ## Referências 
 
+- (Sales Forecasting with Prophet)[https://www.youtube.com/watch?v=hht0iKzviWE&t=319s]
+- (Previsão de demanda com o Prophet)[https://analisemacro.com.br/econometria-e-machine-learning/previsao-de-demanda-com-o-prophet/]
 
 ### Datasets
 
-- (Dataset Tech) [https://www.kaggle.com/datasets/hetulparmar/inventory-management-dataset]
-- (Dataset c/ )
-
-### Estudos
-
-- (Como criar previsões com ST's) [https://medium.com/ensina-ai/princ%C3%ADpios-b%C3%A1sicos-para-criar-previs%C3%B5es-de-s%C3%A9ries-temporais-e58c451a25b]
-
-- (Criando Previsões) [https://nbviewer.org/github/leandrovrabelo/tsmodels/blob/master/notebooks/portugues/Princi%CC%81pios%20Ba%CC%81sicos%20para%20Prever%20Se%CC%81ries%20Temporais.ipynb]
-
-- (Previsão de ST's: Além dos Números) [https://medium.com/@mauren.micalichen/previs%C3%A3o-de-s%C3%A9ries-temporais-abordagem-al%C3%A9m-dos-n%C3%BAmeros-fddae92f0caf]
-
-
-
-- Verificar quantos % cada produto impacta nas vendas
-- Pegar um norte, tipo escolher uma gama de produtos e ver qual delas é prevista de vender mais
+- (Dataset Tech)[https://www.kaggle.com/datasets/hetulparmar/inventory-management-dataset]
+- (Dataset Store Sales)[https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?select=train.csv]
